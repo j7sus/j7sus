@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm studying to specialize in creating content focused on design and development, and I have a real passion for coding. The process of learning new coding skills brings me great joy and satisfaction.
 <!--
 **j7sus/j7sus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
