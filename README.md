@@ -1,3 +1,4 @@
+<img src="https://github.com/j7sus/j7sus/blob/main/head%20img%20nadador.png?raw=true"/>
 ### Hi there 👋
 <p style="background-image: url('')">I'm studying to specialize in creating content focused on design and development, and I have a real passion for coding. The process of learning new coding skills brings me great joy and satisfaction.</p>
 <!--
