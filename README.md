@@ -1,5 +1,5 @@
 ### Hi there 👋
-As student I want to specialize in content creation with a focus on design and development using coding and new technologies. I enjoy learning and improving my skills in these areas.
+As student my goal is to specialize in content creation with a focus on design and development using coding and new technologies. I enjoy learning and improving my skills in these areas.
 
 
 
