@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm studying to specialize in creating content focused on design and development, and I have a real passion for coding. The process of learning new coding skills brings me great joy and satisfaction.
+As student I want to specialize in content creation with a focus on design and development using coding and new technologies. I enjoy learning and improving my skills in these areas.
 
 
 
