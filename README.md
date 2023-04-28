@@ -8,7 +8,7 @@ My interest in open source software and technology began early in my academic jo
 
 At 42 Barcelona, I have access to state-of-the-art facilities and resources that have helped me gain a fuller understanding of technology-related topics. In addition, the collaborative environment of the school has allowed me to work with other students on various projects.
 
-<h1>\U0001f90d++;</h1>
+<h1>\U0001f90d:++;</h1>
 
 
 
