@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there I'm J7SUS👋
 
-I have an immense love for technology and coding, which I consider as the driving force behind my career aspirations. As a result, I'm currently a student at 42 Barcelona, where I'm seeking to expand my skillset and knowledge in this field.
-
-As student my goal is to specialize in content creation with a focus on design and development using coding and new technologies. I enjoy learning and improving my skills in these areas.
+I really love technology and coding, and I believe it's what motivates me to pursue a career in this field. Right now, I'm studying at 42 Barcelona to enhance my skills and gain more knowledge in this area. 🌱 As student my goal is to specialize in content creation with a focus on design and development using coding and new technologies. I enjoy learning and improving my skills in these areas.
 
 Barcelona's 42 school provides top-notch resources for technology studies, and its collaborative setting has facilitated understanding and experience, including working with others on open source software development projects.
 
