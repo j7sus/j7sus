@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋, I'm J7SÚS</h2>
-<h3 align="center">A frontend developer passionate about technology and open source software.</h3>
-<h2 align="center">:white_heart:++;</h2>
+<h2 align="left">Hi 👋, I'm J7SÚS</h2>
+<h3 align="left">A frontend developer passionate about technology and open source software.</h3>
+<h2 align="left">:white_heart:++;</h2>
 
 🌱 I’m currently learning at 42 Barcelona to enhance my skills and gain more knowledge in this area. As student my goal is to specialize in content creation with a focus on design and development using coding and new technologies. I enjoy learning and improving my skills in these areas.
 
