@@ -1,7 +1,7 @@
 <h3 align="right">Hi 👋, I'm J7SUS</h3>
 <h3 align="right">A frontend developer student passionate about technology and open source software</h3>
 
-<p align="justify">🌱 As a student I enjoy learning and improving, my goal is to specialize in content creation with a focus on design and development using coding and new technologies. I am currently learning at 42 Barcelona to improve my skills and gain more knowledge as a developer.</p>
+<p align="justify">🌱 As a student I enjoy learning and improving, my goal is to specialize in content creation with a focus on design and development using coding and new technologies. I am currently learning at <a href="https://www.42barcelona.com/" target="_blank">42 Barcelona</a> to improve my skills and gain more knowledge as a developer.</p>
 <h3 align="right">:black_heart:++;</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,7 +10,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j7sus&show_icons=true&locale=en&layout=compact" alt="j7sus" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">📫 j7suscm@gmail.com</h3>
+<h3 align="left">📫 <a href="mailto">j7suscm@gmail.com</a></h3>
 <p align="left">
 <a href="https://instagram.com/j7sus.cm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j7sus.cm" height="30" width="40" /></a>
 </p>
