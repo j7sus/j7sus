@@ -10,7 +10,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j7sus&show_icons=true&locale=en&layout=compact" alt="j7sus" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left"> 📫 <a href="mailto">j7suscm@gmail.com</a></h3>
+<h3 align="left"> 📫 <a href="mailto:j7suscm@gmail.com">j7suscm@gmail.com</a></h3>
 <p align="left">
 <a href="https://instagram.com/j7sus.cm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j7sus.cm" height="30" width="40" /></a>
 </p>
