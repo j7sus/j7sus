@@ -1,7 +1,7 @@
 <h3 align="right">Hi 👋, I'm J7SUS</h3>
 <h3 align="right">A frontend developer student passionate about technology and open source software</h3>
 
-<p align="justify">🌱 As a student I enjoy learning and improving, my goal is to specialize in content creation with a focus on design and development using coding and new technologies. I am currently learning at <a href="https://www.42barcelona.com/" target="_blank">42 Barcelona</a> to improve my skills and gain more knowledge as a developer.</p>
+<p align="justify">🌱 As a student I enjoy learning and improving, my goal is to specialize in content creation with a focus on design and development using coding and new technologies. I am currently learning at 
 <h3 align="right">:black_heart:++;</h3>
 
 <h3 align="left">Languages and Tools:</h3>
