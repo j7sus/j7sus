@@ -1,15 +1,71 @@
-<h3 align="right">Hi 👋, I'm J7SUS</h3>
-<h3 align="right">A frontend developer student passionate about technology and open source software</h3>
- 
-<h3 align="right">:black_heart:++;</h3>
+<style>
+    .name {
+        font-size: 24px;
+    }
+    .pronunciation {
+        font-size: 14px;
+        font-style: italic;
+    }
+    .noun {
+        font-weight: bolder;
+    }
+    .description {
+        font-weight: 100;
+    }
+    .badges{
+        padding: 20px;
+    }
+    .pointer {
+        height: 100px;
+        weight: 100%;
+    }
+    .linkedin {
+        display: flex;
+    }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-<img src="https://github.com/dacortes/dacortes/raw/main/src/img/mad-typing.gif" width="25%" height="auto" alt="cat programmer"> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=j7sus&show_icons=true&locale=en&layout=compact" alt="j7sus" /></p>
+</style>
 
-<h3 align="left">Connect with me:</h3>
-<h3 align="left"> 📫 <a href="mailto:j7suscm@gmail.com">j7suscm@gmail.com</a></h3>
-<p align="left">
-<a href="https://instagram.com/j7sus.cm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j7sus.cm" height="30" width="40" /></a>
-</p>
+<div class="name">J7SŪS</div>
+<div class="pronunciation">[xeˈsus]</div>
+<div class="noun">proper noun</div>
+<div class="description">
+1. Find creative solutions to technical challenges.<br>
+2. Design systems and applications that are efficient, scalable, and user-friendly.
+</div>
+
+<div style="text-align: justify"> 
+
+##
+Hi, I'm J7sūs, a passionate Full-Stack Software Developer & aspiring Jedi. Years of experience have shaped my creative vision, which I apply to building robust and scalable applications. I thrive in team settings and enjoy the challenge of complex problems, bringing an innovative approach to development.  I'm a proactive problem-solver with a strong work ethic and a collaborative mindset.  I'm always eager to learn new technologies and contribute to innovative projects.  I believe clear communication and efficient teamwork are essential for project success.
+| Web Technologies | Continuous Learning | Problem-Solving May the Code Be With You
+
+</div>
+
+
+## Tech Stack
+<div>
+
+[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![Context API](https://img.shields.io/badge/contextapi-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/docs/context.html)
+[![Mocha](https://img.shields.io/badge/mocha-%23D8B545.svg?style=for-the-badge&logo=mocha&logoColor=white)](https://mochajs.org/)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![Chai](https://img.shields.io/badge/chai-%23A30000.svg?style=for-the-badge&logo=chai&logoColor=white)](https://www.chaijs.com/)
+[![Mongoose](https://img.shields.io/badge/mongoose-%238A4C39.svg?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+## Connect with me
+
+<div class="linkedin">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/jes%C3%BAs-contreras-melendez/)
+
+<img class="pointer" src="assests/pointer.png">
+</div>
