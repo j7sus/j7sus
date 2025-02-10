@@ -1,30 +1,4 @@
-<style>
-    .name {
-        font-size: 24px;
-    }
-    .pronunciation {
-        font-size: 14px;
-        font-style: italic;
-    }
-    .noun {
-        font-weight: bolder;
-    }
-    .description {
-        font-weight: 100;
-    }
-    .badges{
-        padding: 20px;
-    }
-    .pointer {
-        height: 100px;
-        weight: 100%;
-    }
-    .linkedin {
-        display: flex;
-    }
-
-</style>
-
+<link rel="stylesheet" href="index.css">
 <div class="name">J7SŪS</div>
 <div class="pronunciation">[xeˈsus]</div>
 <div class="noun">proper noun</div>
@@ -61,11 +35,13 @@ Hi, I'm J7sūs, a passionate Full-Stack Software Developer & aspiring Jedi. Year
 [![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
+</div>
+
 ## Connect with me
 
-<div class="linkedin">
+<div class="linkedin-container">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/jes%C3%BAs-contreras-melendez/)
+<div class="pointer"> <img src="./assests/pointer.png"></img></div>
 
-<img class="pointer" src="assests/pointer.png">
 </div>
