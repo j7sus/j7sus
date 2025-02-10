@@ -1,10 +1,8 @@
 
-<div style="font-size: 1.6em;">J7SŪS</div>
-<div style="font-size: 0.7em;">[xeˈsus]</div>
-<div style="font-size: 0.8em; font-weight: bold;">proper noun</div>
+## <div style="font-size: 1.6em;">J7SŪS</div> <div style="font-size: 0.5em;">[xeˈsus]</div><div style="font-size: 0.5em; font-weight: bold;">proper noun</div>
 <div style="font-weight: 100; font-size: 0.9em;">
 <i>1. Find creative solutions to technical challenges.<br>
-2. Design systems and applications that are efficient, scalable, and user-friendly.</i>
+1. Design systems and applications that are efficient, scalable, and user-friendly.</i>
 </div>
 
 <div style="text-align: justify; font-size: 1em;"> 
