@@ -42,7 +42,6 @@ Hi, I'm J7sūs, a passionate Full-Stack Software Developer & aspiring Jedi. Year
 <div class="linkedin-container">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/jes%C3%BAs-contreras-melendez/)
-<div class="pointer"> <img src="./assests/pointer.png"></img></div>
 
 </div>
 
