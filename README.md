@@ -31,13 +31,16 @@ May the Code Be With You 🩶++;
 
 ---
 ## Current Project
+
 ### <img src="assests/StackTally demo-gif/StackTallyLogo.png" height="28" alt="Chainalyze icon" title="Chainalyze"/> [StackTally](https://github.com/j7sus/StackTally.git)
-<div style="display: flex; width: 100%; max-width: 600px;">
+<div align="center" style="padding: 20px;">
+<div style="display: flex; width: 100%; max-width: 400px;">
     <img src="./assests/StackTally demo-gif/StackTallydemo-gif-1-.gif" width="30%" style="display: block;" alt="StackTally gif" title="StackTally"/>
     <img src="./assests/StackTally demo-gif/StackTallydemo-gif-2-.gif" width="30%" style="display: block;" alt="StackTally gif" title="StackTally"/>
     <img src="./assests/StackTally demo-gif/StackTallydemo-gif-3-.gif" width="30%" style="display: block;" alt="StackTally gif" title="StackTally"/>
 </div>
 <br>
+</div>
 
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
@@ -52,11 +55,15 @@ StackTally stock control application that optimizes the management of delivery r
 Currently refactoring it to React Native. While exploring new technologies for my project, I discovered React Native, and its potential for mobile app development immediately captivated me. For my project, React Native offers:
 * Faster performance compared to traditional web-based solutions.
 * Offline capabilities with AsyncStorage or SQLite to manage items locally. •Native feature integration, including: camera access and barcode scanning.
+  
+
+
 [![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 
 <div style="display: flex; width: 100%; max-width: 600px;">
     <img src="assests/StackTally demo-gif/Explore-Space-X-GIF-unscreen.gif" width="30%" style="display: block;" alt="StackTally gif" title="StackTally"/>
 </div>
+
 
 ## Connect with me
 
