@@ -9,7 +9,7 @@
 <div style="text-align: justify; font-size: 1em;"> 
 
 
-Hi, I'm J7sūs, a driven Full-Stack Software Developer & aspiring Jedi. Years of experience have shaped my creative vision, which I apply to building robust and scalable applications. I thrive in team settings and enjoy the challenge of complex problems, bringing an innovative approach to development.  I'm a proactive problem-solver with a strong work ethic and a collaborative mindset.  I'm always eager to learn new technologies and contribute to innovative projects.  I believe clear communication and efficient teamwork are essential for project success.<br>
+Hi, I'm J7sūs, a driven Full-Stack Software Developer & aspiring Jedi. My background in retail management instilled strong analytical, problem-solving, and team leadership skills, shaping my creative vision for building robust and scalable applications. I thrive in collaborative environments, enjoying the challenge of complex problems and bringing an innovative approach to development.  I'm a proactive problem-solver with a strong work ethic and collaborative mindset, always eager to learn new technologies and contribute to innovative projects. I believe clear communication and efficient teamwork are essential for project success.<br>
 May the Code Be With You 🩶++;
 </div>
 
