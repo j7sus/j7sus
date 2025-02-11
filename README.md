@@ -34,10 +34,10 @@ May the Code Be With You 🩶++;
 
 ### <img src="assests/StackTally demo-gif/StackTallyLogo.png" height="28" alt="Chainalyze icon" title="Chainalyze"/> [StackTally](https://github.com/j7sus/StackTally.git)
 <div align="center" style="padding: 20px;">
-<div style="display: flex; width: 100%; max-width: 400px;">
-    <img src="./assests/StackTally demo-gif/StackTallydemo-gif-1-.gif" width="30%" style="display: block;" alt="StackTally gif" title="StackTally"/>
-    <img src="./assests/StackTally demo-gif/StackTallydemo-gif-2-.gif" width="30%" style="display: block;" alt="StackTally gif" title="StackTally"/>
-    <img src="./assests/StackTally demo-gif/StackTallydemo-gif-3-.gif" width="30%" style="display: block;" alt="StackTally gif" title="StackTally"/>
+<div style="display: flex; max-width: 200px;">
+    <img src="./assests/StackTally demo-gif/StackTallydemo-gif-1-.gif"  style="display: block;" alt="StackTally gif" title="StackTally"/>
+    <img src="./assests/StackTally demo-gif/StackTallydemo-gif-2-.gif" style="display: block;" alt="StackTally gif" title="StackTally"/>
+    <img src="./assests/StackTally demo-gif/StackTallydemo-gif-3-.gif"  style="display: block;" alt="StackTally gif" title="StackTally"/>
 </div>
 <br>
 </div>
