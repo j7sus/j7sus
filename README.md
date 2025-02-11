@@ -34,14 +34,12 @@ May the Code Be With You 🩶++;
 
 ### <img src="assests/StackTally demo-gif/StackTallyLogo.png" height="28" alt="StackTally icon" title="SAtackTally"/> [StackTally](https://github.com/j7sus/StackTally.git)
 
-<div align="center" style="paddng: 20px;">
-
-<div style="display: flex; justify-content: center;">
-    <img src="./assests/StackTally demo-gif/StackTallydemo-gif-1-.gif"  style="display: block; max-width: 60px;" alt="StackTally gif" title="StackTally"/>
-    <img src="./assests/StackTally demo-gif/StackTallydemo-gif-2-.gif" style="display: block; max-width: 60px;" alt="StackTally gif" title="StackTally"/>
-    <img src="./assests/StackTally demo-gif/StackTallydemo-gif-3-.gif"  style="display: block; max-width: 60px;" alt="StackTally gif" title="StackTally"/>
+<div align="center">
+<div style="display: flex; gap: 20px; justify-content: space-around; padding: 40px">
+  <img src="assests/StackTally demo-gif/StackTallydemo-gif-1-.gif" width="120">
+  <img src="assests/StackTally demo-gif/StackTallydemo-gif-2-.gif" width="120">
+  <img src="assests/StackTally demo-gif/StackTallydemo-gif-3-.gif" width="120">
 </div>
-<br>
 </div>
 
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
