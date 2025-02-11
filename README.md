@@ -34,7 +34,7 @@ May the Code Be With You 🩶++;
 
 ### <img src="assests/StackTally demo-gif/StackTallyLogo.png" height="28" alt="Chainalyze icon" title="Chainalyze"/> [StackTally](https://github.com/j7sus/StackTally.git)
 <div align="center" style="padding: 20px;">
-<div style="display: flex; max-width: 200px;">
+<div style="display: flex; max-width: 50px;">
     <img src="./assests/StackTally demo-gif/StackTallydemo-gif-1-.gif"  style="display: block;" alt="StackTally gif" title="StackTally"/>
     <img src="./assests/StackTally demo-gif/StackTallydemo-gif-2-.gif" style="display: block;" alt="StackTally gif" title="StackTally"/>
     <img src="./assests/StackTally demo-gif/StackTallydemo-gif-3-.gif"  style="display: block;" alt="StackTally gif" title="StackTally"/>
