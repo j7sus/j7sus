@@ -32,13 +32,13 @@ May the Code Be With You 🩶++;
 ---
 ## Current Project
 
-### <img src="assests/StackTally demo-gif/StackTallyLogo.png" height="28" alt="StackTally icon" title="SAtackTally"/> [StackTally](https://github.com/j7sus/StackTally.git)
+### <img src="assests/StackTally demo-gif/StackTallyLogo.png" height="30" alt="StackTally icon" title="SAtackTally"/> [StackTally](https://github.com/j7sus/StackTally.git)
 
 <div align="center">
 <div style="display: flex; gap: 20px; justify-content: space-around; padding: 40px">
-  <img src="assests/StackTally demo-gif/StackTallydemo-gif-1-.gif" width="120">
-  <img src="assests/StackTally demo-gif/StackTallydemo-gif-2-.gif" width="120">
-  <img src="assests/StackTally demo-gif/StackTallydemo-gif-3-.gif" width="120">
+  <img src="assests/StackTally demo-gif/StackTallydemo-gif-1-.gif" width="150">
+  <img src="assests/StackTally demo-gif/StackTallydemo-gif-2-.gif" width="150">
+  <img src="assests/StackTally demo-gif/StackTallydemo-gif-3-.gif" width="150">
 </div>
 </div>
 <br>
@@ -51,7 +51,9 @@ May the Code Be With You 🩶++;
 
 StackTally stock control application that optimizes the management of delivery reception and inventory control by:
 * Digitization of the process: Implement a scanning and automatic recording system for the contents of the boxes.
-* Quick location of items: Facilitate the identification of products within closed and unprocessed boxes
+* Quick location of items: Facilitate the identification of products within closed and unprocessed boxes.
+
+[![StackTally](https://img.shields.io/badge/StackTally-E9EE01?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=U3xCr4AtFfs)
 
 Currently refactoring it to React Native. While exploring new technologies for my project, I discovered React Native, and its potential for mobile app development immediately captivated me. For my project, React Native offers:
 * Faster performance compared to traditional web-based solutions.
@@ -59,9 +61,10 @@ Currently refactoring it to React Native. While exploring new technologies for m
   
 
 
+
 [![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 
-<div style="display: flex; width: 100%; max-width: 600px;">
+<div style="display: flex; width: 100%; max-width: 300px;">
     <img src="assests/StackTally demo-gif/Explore-Space-X-GIF-unscreen.gif" width="30%" style="display: block;" alt="StackTally gif" title="StackTally"/>
 </div>
 
