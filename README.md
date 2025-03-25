@@ -30,7 +30,7 @@ May the Code Be With You 🩶++;
 </div>
 
 ---
-## Current Project
+## Current Work
 
 ### <img src="assests/StackTally demo-gif/StackTallyLogo.png" height="30" alt="StackTally icon" title="SAtackTally"/> [StackTally](https://github.com/j7sus/StackTally.git)
 
